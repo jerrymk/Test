@@ -1,0 +1,1 @@
+<Connector connectionTimeout="20000" port="8080" protocol="HTTP/1.1" redirectPort="8443" maxPostSize="0" maxHttpHeaderSize ="102400"/>
